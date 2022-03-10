@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\nam3\\CNPM\\CNPMNC\\lap2.1\\lap2.1\\lap2.1.csproj": {}
+    "D:\\nam3\\CNPM\\CNPMNC\\quang\\lap2.1\\lap2.1.csproj": {}
   },
   "projects": {
-    "D:\\nam3\\CNPM\\CNPMNC\\lap2.1\\lap2.1\\lap2.1.csproj": {
+    "D:\\nam3\\CNPM\\CNPMNC\\quang\\lap2.1\\lap2.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\nam3\\CNPM\\CNPMNC\\lap2.1\\lap2.1\\lap2.1.csproj",
+        "projectUniqueName": "D:\\nam3\\CNPM\\CNPMNC\\quang\\lap2.1\\lap2.1.csproj",
         "projectName": "lap2.1",
-        "projectPath": "D:\\nam3\\CNPM\\CNPMNC\\lap2.1\\lap2.1\\lap2.1.csproj",
+        "projectPath": "D:\\nam3\\CNPM\\CNPMNC\\quang\\lap2.1\\lap2.1.csproj",
         "packagesPath": "C:\\Users\\Hieu\\.nuget\\packages\\",
-        "outputPath": "D:\\nam3\\CNPM\\CNPMNC\\lap2.1\\lap2.1\\obj\\",
+        "outputPath": "D:\\nam3\\CNPM\\CNPMNC\\quang\\lap2.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
